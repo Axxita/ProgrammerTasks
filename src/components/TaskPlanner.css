@@ -1,0 +1,12 @@
+.TaskPlanner {
+  margin-top: 20px;
+}
+
+.TaskPlanner h2 {
+  color: #003459;
+}
+
+.TaskPlanner button {
+  background-color: #17a2b8;
+  margin-bottom: 20px;
+}
